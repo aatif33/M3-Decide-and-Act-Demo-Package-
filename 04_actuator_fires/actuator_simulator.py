@@ -1,4 +1,4 @@
-"""Safe console-only actuator event simulator."""
+
 import argparse
 from datetime import datetime, timezone
 
